@@ -1,4 +1,5 @@
 Thu Jan 17 23:22:32 CST 2013
+
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
